@@ -1,3 +1,27 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Bigham \bgroup \em et al.\egroup
+  }{2010}]{bigham2010vizwiz}
+Jeffrey~P Bigham, Chandrika Jayant, Hanjie Ji, Greg Little, Andrew Miller,
+  Robert~C Miller, Robin Miller, Aubrey Tatarowicz, Brandyn White, Samual
+  White, et~al.
+\newblock Vizwiz: nearly real-time answers to visual questions.
+\newblock In {\em Proceedings of the 23nd annual ACM symposium on User
+  interface software and technology}, pages 333--342. ACM, 2010.
+
+\bibitem[\protect\citeauthoryear{Lasecki and
+  Bigham}{2013}]{lasecki2013interactive}
+Walter~S Lasecki and Jeffrey~P Bigham.
+\newblock Interactive crowds: real-time crowdsourcing and crowd agents.
+\newblock In {\em Handbook of Human Computation}, pages 509--521. Springer,
+  2013.
+
+\bibitem[\protect\citeauthoryear{Lasecki \bgroup \em et al.\egroup
+  }{2013}]{lasecki2013chorus}
+Walter~S Lasecki, Rachel Wesley, Jeffrey Nichols, Anand Kulkarni, James~F
+  Allen, and Jeffrey~P Bigham.
+\newblock Chorus: a crowd-powered conversational assistant.
+\newblock In {\em Proceedings of the 26th annual ACM symposium on User
+  interface software and technology}, pages 151--162. ACM, 2013.
+
 \end{thebibliography}
