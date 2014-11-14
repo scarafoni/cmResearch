@@ -1,0 +1,70 @@
+q- pb and j sandwich
+
+vote 1
+Put peanut butter and jelly between 2 slices of bread
+put peanut butter on one slice of bread with knife
+Grab a slice of bread from the recently bought loaf and spread peanut butter on it with a clean knife
+buy a knife or other tool permitting the spreading of substance upon bread
+
+vote 2
+buy peanut butter and jelly and bread
+Grab a new slice of bread
+Put peanut butter and jelly between 2 slices of bread
+take two pieces of bread from the bag
+
+time- 5 46 mins
+buy peanut butter and jelly and bread
+Put peanut butter and jelly between 2 slices of bread
+
+approval- 2 2 4 2
+everyone thought these instructions were bad
+
+
+q- how to do laundry
+
+vote 1
+wear clothes
+Find dirty clothes
+*nothing*
+Put your dirty clothes in a washing machine
+
+vote2
+Place them in a washing machine and set a washing cycle
+put them in a washer
+Gather them and bring them to a washing machine
+put the dirty clothes in the landuary bag
+
+vote3
+push the power button
+put in detergent and start the machine
+put money in the machine (or swipe your UR ID on the card reader by the machines)
+When done, transfer the load to a drying machine and set a drying cycle
+
+vote4
+put the landury in the dryer once all clothes is washed
+let the wash cycle finish (depending on your machine, you might hear a loud ding or the display might say "0 min" or "wash complete")
+Make sure there actually is enough electricity to power the washing machine
+when it's done, move the clothes to a dryer
+
+vote5
+select the appropriate drying settings and start the dryer
+when the dryer is done, take the clothes out
+take the dried landuary out and pack them in the closet
+Once done, take all clothes out of the dryer and bring them to their final destination (room, cleaning service front desk, etc)
+
+obs- voting is a bottleneck
+vote6
+it for the dryer to finish
+once the dryer is done, take the clothes out and bring them to wherever you keep them
+Wait for the dryer to finish drying and bring back the clothes to their storage place
+close the closet
+
+final
+Find dirty clothes
+Place them in a washing machine and set a washing cycle
+push the power button
+put the landury in the dryer once all clothes is washed
+select the appropriate drying settings and start the dryer
+Wait for the dryer to finish drying and bring back the clothes to their storage place
+
+rating- 1 4 3 3
