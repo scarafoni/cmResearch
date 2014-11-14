@@ -16,9 +16,13 @@ time- 5 46 mins
 buy peanut butter and jelly and bread
 Put peanut butter and jelly between 2 slices of bread
 
-approval- 2 2 4 2
+approval- 2 2 4 2 1
 everyone thought these instructions were bad
 
+
+solo
+	time- 7 min 8 sec
+rating- 4
 
 q- how to do laundry
 
@@ -67,4 +71,9 @@ put the landury in the dryer once all clothes is washed
 select the appropriate drying settings and start the dryer
 Wait for the dryer to finish drying and bring back the clothes to their storage place
 
-rating- 1 4 3 3
+rating- 1 4 3 3 1
+14:07 
+
+solo
+	time- 10:31
+rating- 3
