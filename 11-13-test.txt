@@ -21,6 +21,18 @@ everyone thought these instructions were bad
 
 
 solo
+
+final
+retrieve the peanut butter, jelly, bread, and a knife and a plate
+place two pieces of bread on a plate
+open jars of peanut butter and jelly
+using knife spread peanut butter on the other piece of bread
+close jars of peanut butter and jelly and return them
+leaving jelly spread piece of bread on the plate pick up the piece of bread with peanut butter
+place the piece of bread with peanut butter top touches jelly and thei rborder align
+clean and return knife
+
+
 	time- 7 min 8 sec
 rating- 4
 
@@ -75,5 +87,22 @@ rating- 1 4 3 3 1
 14:07 
 
 solo
+final
+make sure all clothes are approved for clearning ni washer and dryer
+gather clothes in a method of convergence
+open washing machine lid, take clothes and place them in the washer
+disperse them evenly
+select the washing machine settings indicated by the tags
+add detergent to the washing machine in an amount indicated onthe detergent bottle
+close the lid of the washing machine
+press start
+wait interval indicated bythe machine if no interval is indicated, wait 45 minutes
+open dryer door, remove closes from washer and place them in dryer
+add fabric softener to dryer
+close the dryer door and remove and clear the filter (usually found on top of the dryer)
+press start
+return when the clothes are done
+remove clothes from drer and place in basket
+
 	time- 10:31
 rating- 3
