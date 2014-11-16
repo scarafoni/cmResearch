@@ -18,85 +18,52 @@
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}Methodology}{6}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {3.1}High Level Overview}{7}}
-\citation{schubert2000episodic}
-\@writefile{toc}{\contentsline {section}{\numberline {3.2}Objects and Entities}{9}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces The basic flow of information in the IMS\xspace  .\relax }}{10}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Results}{7}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces width=0.5\textwidth }}{8}}
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
-\newlabel{fig:mirs_flow}{{3.1}{10}}
-\@writefile{toc}{\contentsline {section}{\numberline {3.3}Predications}{11}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Vision Predication}{11}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces an idealized model of the naive implementation of \texttt  {canSee(A,B)}.\relax }}{12}}
-\newlabel{fig:vision1}{{3.2}{12}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces A second implementation of ray-casting\relax }}{13}}
-\newlabel{fig:vision2}{{3.3}{13}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces The nudge addition to the naive model\relax }}{13}}
-\newlabel{fig:vision3}{{3.4}{13}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces C blocks the site of A, even though there exist obvious casts (dashed) that would indicate that B is visible\relax }}{14}}
-\newlabel{fig:vision4}{{3.5}{14}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces The second iteration of the \texttt  {canSee(A,B)} algorithm\relax }}{15}}
-\newlabel{fig:vision5}{{3.6}{15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces The majority of the casts are blocked by C even though B is visible.\relax }}{15}}
-\newlabel{fig:vision6}{{3.7}{15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Rays are cast evenly across object B.\relax }}{16}}
-\newlabel{fig:vision7}{{3.8}{16}}
-\citation{wordseye,wintermute2009overview}
-\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.2}Placement Methods}{17}}
-\citation{wordseye}
-\citation{xu2002constraint}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces A visualization of the first and current placement mechanism.\relax }}{18}}
-\newlabel{fig:square_placement}{{3.9}{18}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces The theoretical placement areas for the predicate \texttt  {canSee}. Valid areas are colored green, invalid areas are red.\relax }}{18}}
-\newlabel{fig:vision_placement_theoretical}{{3.10}{18}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.11}{\ignorespaces One proposed method of placing objects using by using a uniform grid of placement areas.\relax }}{19}}
-\newlabel{fig:grid_placement}{{3.11}{19}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.12}{\ignorespaces Rejection sampling was also considered as a placement mechanism.\relax }}{20}}
-\newlabel{fig:rejection_sampling_placement}{{3.12}{20}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Results}{21}}
+\newlabel{fig:models_used}{{4.1}{8}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Binary Query Tests}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Given the above predicates, the IMS\xspace  is able to generate an appropriate scene.\relax }}{9}}
+\newlabel{fig:scene_demo}{{4.2}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Query Results Over Varying Predicates and Distances.\relax }}{10}}
+\newlabel{table:query_results}{{4.1}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Binary Placement Testing}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Full Scene Simulation}{12}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces The testing results for the story placement scene.\relax }}{13}}
+\newlabel{table:story_placements}{{4.2}{13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces In a variety of locations, IMS\xspace  is able to gauge visibility given the presence of obscuring objects. The relative locations of the snowman, ball, and person represent their location in the testing on the xy plane\relax }}{14}}
+\newlabel{fig:see_query}{{4.3}{14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Placement with no rejection sampling. \texttt  {Near}, \texttt  {isTouching}, \texttt  {canSee}, and \texttt  {in} all show accurate placement, while others do not. Considerable variation is present amongst all predicates.\relax }}{15}}
+\newlabel{fig:binary_place_ballAndPerson_noThresh}{{4.4}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Placement with low rejection sampling. Slight but not significant improvements are shown across all predicates, as well as a dramatic increase in run-time for the \texttt  {inside} predicate.\relax }}{15}}
+\newlabel{fig:binary_place_ballAndPerson_lowThresh}{{4.5}{15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Placement with high rejection sampling. Improvements are noticed in placement accuracy, though the run-time of the near predication increases even more dramatically then before.\relax }}{16}}
+\newlabel{fig:binary_place_ballAndPerson_highThresh}{{4.6}{16}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{17}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces width=0.5\textwidth }}{22}}
-\newlabel{fig:models_used}{{4.1}{22}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Binary Query Tests}{22}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Given the above predicates, the IMS\xspace  is able to generate an appropriate scene.\relax }}{23}}
-\newlabel{fig:scene_demo}{{4.2}{23}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Query Results Over Varying Predicates and Distances.\relax }}{24}}
-\newlabel{table:query_results}{{4.1}{24}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Binary Placement Testing}{24}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}Full Scene Simulation}{26}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces The testing results for the story placement scene.\relax }}{27}}
-\newlabel{table:story_placements}{{4.2}{27}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces In a variety of locations, IMS\xspace  is able to gauge visibility given the presence of obscuring objects. The relative locations of the snowman, ball, and person represent their location in the testing on the xy plane\relax }}{28}}
-\newlabel{fig:see_query}{{4.3}{28}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Placement with no rejection sampling. \texttt  {Near}, \texttt  {isTouching}, \texttt  {canSee}, and \texttt  {in} all show accurate placement, while others do not. Considerable variation is present amongst all predicates.\relax }}{29}}
-\newlabel{fig:binary_place_ballAndPerson_noThresh}{{4.4}{29}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Placement with low rejection sampling. Slight but not significant improvements are shown across all predicates, as well as a dramatic increase in run-time for the \texttt  {inside} predicate.\relax }}{29}}
-\newlabel{fig:binary_place_ballAndPerson_lowThresh}{{4.5}{29}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Placement with high rejection sampling. Improvements are noticed in placement accuracy, though the run-time of the near predication increases even more dramatically then before.\relax }}{30}}
-\newlabel{fig:binary_place_ballAndPerson_highThresh}{{4.6}{30}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{31}}
-\@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lot}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces The 3D printed model of the person from the story scene. A quarter is shown nearby for scale\relax }}{32}}
-\newlabel{fig:3D_Print}{{5.1}{32}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {6}Code Tables}{35}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces The 3D printed model of the person from the story scene. A quarter is shown nearby for scale\relax }}{18}}
+\newlabel{fig:3D_Print}{{5.1}{18}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Code Tables}{21}}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \gdef \LT@i {\LT@entry 
     {1}{155.06377pt}\LT@entry 
     {1}{296.92755pt}}
-\@writefile{lot}{\contentsline {table}{\numberline {6.1}{\ignorespaces Obutils Methods}}{36}}
+\@writefile{lot}{\contentsline {table}{\numberline {6.1}{\ignorespaces Obutils Methods}}{22}}
 \gdef \LT@ii {\LT@entry 
     {1}{98.15825pt}\LT@entry 
     {1}{83.53188pt}\LT@entry 
     {1}{154.66377pt}\LT@entry 
     {1}{126.21101pt}}
 \bibdata{refs}
-\@writefile{lot}{\contentsline {table}{\numberline {6.2}{\ignorespaces predMethods Methods}}{39}}
+\@writefile{lot}{\contentsline {table}{\numberline {6.2}{\ignorespaces predMethods Methods}}{25}}
 \bibcite{bigham2010vizwiz}{{1}{2010}{{Bigham \bgroup \em  et al.\egroup }}{{}}}
 \bibcite{brabham2008crowdsourcing}{{2}{2008}{{Brabham}}{{}}}
 \bibcite{howe2006rise}{{3}{2006}{{Howe}}{{}}}
 \bibcite{lasecki2013interactive}{{4}{2013}{{Lasecki and Bigham}}{{}}}
 \bibcite{lasecki2013chorus}{{5}{2013}{{Lasecki \bgroup \em  et al.\egroup }}{{}}}
 \bibstyle{named}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{40}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{26}}

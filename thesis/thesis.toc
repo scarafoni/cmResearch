@@ -5,15 +5,10 @@
 \contentsline {subsection}{\numberline {2.1.1}Current Scope and Usage of Crowdsourcing}{4}
 \contentsline {subsection}{\numberline {2.1.2}Effective Crowdsourcing}{5}
 \contentsline {chapter}{\numberline {3}Methodology}{6}
-\contentsline {section}{\numberline {3.1}High Level Overview}{7}
-\contentsline {section}{\numberline {3.2}Objects and Entities}{9}
-\contentsline {section}{\numberline {3.3}Predications}{11}
-\contentsline {subsection}{\numberline {3.3.1}Vision Predication}{11}
-\contentsline {subsection}{\numberline {3.3.2}Placement Methods}{17}
-\contentsline {chapter}{\numberline {4}Results}{21}
-\contentsline {section}{\numberline {4.1}Binary Query Tests}{22}
-\contentsline {section}{\numberline {4.2}Binary Placement Testing}{24}
-\contentsline {section}{\numberline {4.3}Full Scene Simulation}{26}
-\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{31}
-\contentsline {chapter}{\numberline {6}Code Tables}{35}
-\contentsline {chapter}{Bibliography}{40}
+\contentsline {chapter}{\numberline {4}Results}{7}
+\contentsline {section}{\numberline {4.1}Binary Query Tests}{8}
+\contentsline {section}{\numberline {4.2}Binary Placement Testing}{10}
+\contentsline {section}{\numberline {4.3}Full Scene Simulation}{12}
+\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{17}
+\contentsline {chapter}{\numberline {6}Code Tables}{21}
+\contentsline {chapter}{Bibliography}{26}
