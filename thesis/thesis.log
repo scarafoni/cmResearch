@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.11.11)  16 NOV 2014 13:40
+This is pdfTeX, Version 3.1415926-2.6-1.40.14 (TeX Live 2014/dev) (format=pdflatex 2014.11.11)  20 NOV 2014 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -344,270 +344,32 @@ Chapter 3.
 (./methodology.tex [6
 
 
-]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 16.
+] <figures/cmInterface2.png, id=42, 963.6pt x 722.7pt>
+File: figures/cmInterface2.png Graphic file (type png)
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [7]
-
-Package natbib Warning: Citation `schubert2000episodic' on page 8 undefined on 
-input line 54.
-
-[8]
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 68.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 68.
-
-<figures/mirs_flow.png, id=49, 1264.725pt x 983.675pt>
-File: figures/mirs_flow.png Graphic file (type png)
-
-<use figures/mirs_flow.png>
-Package pdftex.def Info: figures/mirs_flow.png used on input line 72.
-(pdftex.def)             Requested size: 415.55249pt x 323.20285pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Try loading font information for OML+pcr on input line 78.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlpcr.fd
-File: omlpcr.fd 
-)
-LaTeX Font Info:    Font shape `OML/pcr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 78.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [9] [10 <./figures/mirs_flow.png (PNG copy)>] [11] <figures/vision1.png, id=61
-, 963.6pt x 722.7pt>
-File: figures/vision1.png Graphic file (type png)
-
-<use figures/vision1.png>
-Package pdftex.def Info: figures/vision1.png used on input line 117.
+<use figures/cmInterface2.png>
+Package pdftex.def Info: figures/cmInterface2.png used on input line 33.
 (pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
- <figures/vision2.png, id=62, 963.6pt x 722.7pt>
-File: figures/vision2.png Graphic file (type png)
-
-<use figures/vision2.png>
-Package pdftex.def Info: figures/vision2.png used on input line 127.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12 <./figures/vision1.png (PNG copy)>]
-<figures/vision3.png, id=66, 963.6pt x 722.7pt>
-File: figures/vision3.png Graphic file (type png)
- <use figures/vision3.png>
-Package pdftex.def Info: figures/vision3.png used on input line 137.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-
-[13 <./figures/vision2.png (PNG copy)> <./figures/vision3.png (PNG copy)>]
-<figures/vision4.png, id=70, 963.6pt x 722.7pt>
-File: figures/vision4.png Graphic file (type png)
- <use figures/vision4.png>
-Package pdftex.def Info: figures/vision4.png used on input line 147.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-<figures/vision5.png, id=71, 963.6pt x 722.7pt>
-File: figures/vision5.png Graphic file (type png)
- <use figures/vision5.png>
-Package pdftex.def Info: figures/vision5.png used on input line 158.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/vision6.png, id=72, 963.6pt x 722.7pt>
-File: figures/vision6.png Graphic file (type png)
- <use figures/vision6.png>
-Package pdftex.def Info: figures/vision6.png used on input line 168.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-[14 <./figures/vision4.png (PNG copy)>] [15 <./figures/vision5.png (PNG copy)> 
-<./figures/vision6.png (PNG copy)>]
-<figures/vision7.png, id=80, 963.6pt x 722.7pt>
-File: figures/vision7.png Graphic file (type png)
- <use figures/vision7.png>
-Package pdftex.def Info: figures/vision7.png used on input line 180.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-[16 <./figures/vision7.png (PNG copy)>]
-
-Package natbib Warning: Citation `wordseye' on page 17 undefined on input line 
-202.
-
-
-Package natbib Warning: Citation `wintermute2009overview' on page 17 undefined 
-on input line 202.
-
-<figures/square_placement.png, id=84, 963.6pt x 722.7pt>
-File: figures/square_placement.png Graphic file (type png)
-
-<use figures/square_placement.png>
-Package pdftex.def Info: figures/square_placement.png used on input line 208.
-(pdftex.def)             Requested size: 199.46341pt x 149.58803pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[17]
-<figures/vision_placement_theoretical.png, id=88, 956.57375pt x 455.7025pt>
-File: figures/vision_placement_theoretical.png Graphic file (type png)
-
-<use figures/vision_placement_theoretical.png>
-Package pdftex.def Info: figures/vision_placement_theoretical.png used on input
- line 221.
-(pdftex.def)             Requested size: 199.46341pt x 95.0189pt.
-
-
-Package natbib Warning: Citation `wordseye' on page 18 undefined on input line 
-228.
-
-
-Package natbib Warning: Citation `xu2002constraint' on page 18 undefined on inp
-ut line 229.
-
-[18 <./figures/square_placement.png (PNG copy)> <./figures/vision_placement_the
-oretical.png (PNG copy)>]
-<figures/grid_placement.png, id=92, 956.57375pt x 455.7025pt>
-File: figures/grid_placement.png Graphic file (type png)
-
-<use figures/grid_placement.png>
-Package pdftex.def Info: figures/grid_placement.png used on input line 240.
-(pdftex.def)             Requested size: 199.46341pt x 95.0189pt.
- [19 <./figures/grid_placement.png>]
-<figures/rejection_sampling_placement.png, id=98, 956.57375pt x 455.7025pt>
-File: figures/rejection_sampling_placement.png Graphic file (type png)
-
-<use figures/rejection_sampling_placement.png>
-Package pdftex.def Info: figures/rejection_sampling_placement.png used on input
- line 257.
-(pdftex.def)             Requested size: 199.46341pt x 95.0189pt.
-) [20 <./figures/rejection_sampling_placement.png>]
+) [7 <./figures/cmInterface2.png>]
 Chapter 4.
-(./results.tex <figures/models_used.pdf, id=103, 597.23125pt x 845.1575pt>
-File: figures/models_used.pdf Graphic file (type pdf)
-
-<use figures/models_used.pdf>
-Package pdftex.def Info: figures/models_used.pdf used on input line 19.
-(pdftex.def)             Requested size: 199.46341pt x 282.2687pt.
+(./results.tex) [8
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/scene_demo.png, id=104, 963.6pt x 722.7pt>
-File: figures/scene_demo.png Graphic file (type png)
-
-<use figures/scene_demo.png>
-Package pdftex.def Info: figures/scene_demo.png used on input line 30.
-(pdftex.def)             Requested size: 415.55249pt x 311.6592pt.
- [21
+]
+Chapter 5.
+(./conclusion.tex
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 2.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+[9
 
 
 ]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `fig:3D_Print' on page 10 undefined on input line 15.
 
-[22 <./figures/models_used.pdf>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/see_query.png, id=114, 614.295pt x 794.97pt>
-File: figures/see_query.png Graphic file (type png)
-
-<use figures/see_query.png>
-Package pdftex.def Info: figures/see_query.png used on input line 96.
-(pdftex.def)             Requested size: 311.66437pt x 403.33081pt.
- [23 <./figures/scene_demo.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24]
-<figures/binary_place_ballAndPerson_noThresh.png, id=122, 612.03656pt x 256.709
-06pt>
-File: figures/binary_place_ballAndPerson_noThresh.png Graphic file (type png)
- <use figures/binary_place_ballAndPerson_noThresh.png>
-Package pdftex.def Info: figures/binary_place_ballAndPerson_noThresh.png used o
-n input line 117.
-(pdftex.def)             Requested size: 332.44325pt x 139.43556pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<figures/binary_place_ballAndPerson_lowThresh.png, id=123, 524.71031pt x 250.68
-657pt>
-File: figures/binary_place_ballAndPerson_lowThresh.png Graphic file (type png)
- <use figures/binary_place_ballAndPerson_lowThresh.png>
-Package pdftex.def Info: figures/binary_place_ballAndPerson_lowThresh.png used 
-on input line 129.
-(pdftex.def)             Requested size: 332.44325pt x 158.83228pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<figures/binary_place_ballAndPerson_highThresh.png, id=124, 490.08093pt x 276.2
-8218pt>
-File: figures/binary_place_ballAndPerson_highThresh.png Graphic file (type png)
-
- <use figures/binary_place_ballAndPerson_highThresh.png>
-Package pdftex.def Info: figures/binary_place_ballAndPerson_highThresh.png used
- on input line 142.
-(pdftex.def)             Requested size: 332.44325pt x 187.4183pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25] [26]) [27] [28 <./figures/see_query.png>] [29 <./figures/binary_place_ball
-AndPerson_noThresh.png (PNG copy)> <./figures/binary_place_ballAndPerson_lowThr
-esh.png (PNG copy)>] [30 <./figures/binary_place_ballAndPerson_highThresh.png (
-PNG copy)>]
-Chapter 5.
-(./conclusion.tex [31
-
-
-] <figures/3D_Print.jpg, id=148, 3131.7pt x 4175.6pt>
-File: figures/3D_Print.jpg Graphic file (type jpg)
-
-<use figures/3D_Print.jpg>
-Package pdftex.def Info: figures/3D_Print.jpg used on input line 19.
-(pdftex.def)             Requested size: 186.99734pt x 249.31462pt.
- [32 <./figures/3D_Print.jpg>] [33]) [34]
+[10] [11]) [12]
 Chapter 6.
 (./codesection.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -718,10 +480,10 @@ Overfull \hbox (36.43883pt too wide) in alignment at lines 45--45
  [] [] 
  []
 
-[35
+[13
 
 
-] [36]
+] [14]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/m/n/10.95 determines
  []
@@ -846,38 +608,41 @@ Overfull \hbox (47.01242pt too wide) in alignment at lines 50--74
 Underfull \vbox (badness 10000) detected at line 74
  []
 
-[37] [38]) (./thesis.bbl [39])
+[15] [16]) (./thesis.bbl [17])
 
 Package natbib Warning: There were undefined citations.
 
-[40
+[18
 
 
-] (./thesis.aux) ) 
+] (./thesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5060 strings out of 493328
- 76708 string characters out of 6140732
- 164037 words of memory out of 5000000
- 8391 multiletter control sequences out of 15000+600000
+ 4913 strings out of 493328
+ 72996 string characters out of 6140732
+ 164813 words of memory out of 5000000
+ 8269 multiletter control sequences out of 15000+600000
  10180 words of font info for 36 fonts, out of 8000000 for 9000
  953 hyphenation exceptions out of 8191
- 38i,11n,44p,1290b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-
-Output written on thesis.pdf (44 pages, 3748277 bytes).
+ 38i,9n,44p,816b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on thesis.pdf (22 pages, 239926 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
+ 123 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

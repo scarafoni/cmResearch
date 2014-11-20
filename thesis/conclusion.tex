@@ -1,4 +1,4 @@
-As shown in figure \ref{table:query_results}, the system is able to handle the simple case for object querying very reasonably. 
+As shown in figure the system is able to handle the simple case for object querying very reasonably. 
 The fastest calculating predicate is \texttt{isTouching}, followed closely by \texttt{near}.
 Because these two predicates operate on similar algorithms, it make sense that the two operate in similar time.
 One potential significance is the fact that \texttt{isTouching} operates faster than \texttt{near}, and the only tangible difference between the two algorithms is the fact that \texttt{isTouching} has a smaller threshold than \texttt{near}.
@@ -14,13 +14,6 @@ The person's motion would be tracked with the cameras, and the avatar would move
 
 In a similar note, the use of Blender has opened up a number of options for future endeavors. Because Blender is a widely-used program with a broad range of applications and widespread compatibility, \TDS has the potential to be utilized in any number of studies and situations. For example, many 3D printers currently accept model input in file formats supported by Blender. At this year's Rochack Hackathon, we were able to 3D print one of the models. This model can be seen in figure \ref{fig:3D_Print}.
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.45\textwidth]{figures/3D_Print.jpg}
-	\end{center}
-	\caption{The 3D printed model of the person from the story scene. A quarter is shown nearby for scale}
-	\label{fig:3D_Print}
-\end{figure} 
 
 The Blender file for the person was uploaded with minimal changes to the 3D printer at the school, and printed. The entire process of converting the file, uploading it to the printer, and printing the figure took less than an hour. Given the growing importance of 3D printing in the present, and the many applications to 3D environments that \TDS offers, the ability to quickly model objects that can be 3D printed could prove to be a valuable feature of the system.
 
