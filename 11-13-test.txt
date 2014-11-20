@@ -34,7 +34,7 @@ clean and return knife
 
 
 	time- 7 min 8 sec
-rating- 4
+rating- 4 4 4
 
 q- how to do laundry
 
@@ -105,4 +105,4 @@ return when the clothes are done
 remove clothes from drer and place in basket
 
 	time- 10:31
-rating- 3
+rating- 3 5 5
