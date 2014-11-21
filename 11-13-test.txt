@@ -21,7 +21,7 @@ everyone thought these instructions were bad
 
 
 solo
-
+q- how to do laundry
 final
 retrieve the peanut butter, jelly, bread, and a knife and a plate
 place two pieces of bread on a plate
@@ -35,8 +35,6 @@ clean and return knife
 
 	time- 7 min 8 sec
 rating- 4 4 4
-
-q- how to do laundry
 
 vote 1
 wear clothes
