@@ -21,6 +21,13 @@ Jeff Howe.
 \newblock The rise of crowdsourcing.
 \newblock {\em Wired magazine}, 14(6):1--4, 2006.
 
+\bibitem[\protect\citeauthoryear{Kulkarni \bgroup \em et al.\egroup
+  }{2012}]{kulkarni2012collaboratively}
+Anand Kulkarni, Matthew Can, and Bj{\"o}rn Hartmann.
+\newblock Collaboratively crowdsourcing workflows with turkomatic.
+\newblock In {\em Proceedings of the ACM 2012 conference on Computer Supported
+  Cooperative Work}, pages 1003--1012. ACM, 2012.
+
 \bibitem[\protect\citeauthoryear{Lasecki and
   Bigham}{2013}]{lasecki2013interactive}
 Walter~S Lasecki and Jeffrey~P Bigham.

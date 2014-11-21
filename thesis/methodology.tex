@@ -7,12 +7,16 @@ Their system was unable to coordinate workflows, in no small part due to the com
 Their algorithm used recursive workflow partitioning, and allowed for complex sub-task creation.
 This led to significant difference of opinion between users, and little consensus was obtained without the use of a single task evaluator who would oversee the task (also known as ``derailment'' \cite{kulkarni2012collaboratively}.
 
-To combat this problem, Canned Mentorship utilizes an iterative, chronological workflow.
+To combat this problem, Canned Mentorship utilizes an iterative, one directional workflow.
+Instead of a complex, largely unordered workflow of turkomatic, Canned Mentorship makes users create the instruction list in the order it will be executed.
+This was done to avoid problems with granularity and starvation that were problematic in this system.
 
-\subsection{Greedy Instruction Addition}
-Taking the opposite mentality, CannedMentorship uses a very simple task generating algorithm, with no explicit task subdivision or branching.
+\subsection{In-Order Instruction Addition}
+CannedMentorship uses a very simple task generating algorithm, with no explicit task subdivision or branching.
 The system simply asks users to create steps in sequence, from beginning to end, in order.
-Each step is completed in order, with the latter steps coming directly after former steps chronologically. 
+Each step is completed in order, with the latter steps coming directly after former steps chronologically.
+
+The actual process of writing the code was a 
 
 \section{Implementation and Webapp details}
 Our project began by creating a small webapp which coordinated the instruction generating process.
@@ -31,7 +35,7 @@ It was designed as a lightweight, simple system which hosted the users for the d
 
 \begin{figure}[h]
 	\begin{center}
-		\includegraphics[width=0.48\textwidth]{figures/cmInterface2.png}
+		\includegraphics[width=0.48\textwidth]{figures/cmInterface.png}
 		\caption{Rejection sampling was also considered as a placement mechanism.}
 		\label{fig:rejection_sampling_placement}
 	\end{center}
