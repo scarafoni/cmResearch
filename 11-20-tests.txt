@@ -1,0 +1,279 @@
+*tests with merging*
+
+
+laudry
+rate- 5 3 3 4
+solo
+	time- 2:37
+final
+gather all dirty laundry and bring it to a washing machine
+put in detergetn ,choose the desired load type and start the machine
+when done move clothes to a dryer and start the dreyer
+when done bring the clothes back to where you store them
+
+group
+rate 4 4 4 4
+time- 10:47
+
+
+final
+Gather your clothes and laundry detergent and go to the laundry room
+Put clothes in the washing machine with detergent and set time or cycles.
+Wait until washing finishes. Afterwards move wet clothes to the drying machine.
+Clean the lint filter, start the dryer, and repeat step 2 for your other load.
+Once the dryer is finished, take your clothes out, fold them, and repeat step 3 for your other load.
+Put the folded clothes away. Do step 4 for your second load.
+Congrats! You finished!
+
+vote1
+Find a wash room
+Gather dirty clothes and bring them to a washing machine
+Gather your clothes and laundry detergent and go to the laundry room
+You should first put the clothes in the washing machine.
+
+vote2
+Open the washing machine and put laundry detergent in, followed by your set of either light or dark laundry
+Put clothes in the washing machine with detergent and set time or cycles.
+Put the clothes in a washing machine and put in detergent
+See if there is an open washer. If so, pay for your washer (if necessary), and put in your clothes
+
+vote3
+start the machine
+When cycle completed, move clothes from washer to dryer and begin drying cycle.
+Wait until washing finishes. Afterwards move wet clothes to the drying machine.
+start the washing machine and come back when your load is done
+
+vote4
+Turn on the dryer, and wait for the machine to complete its task.
+set the desired drying time and start the dryer.
+Wait until drying finishes. Afterwards move dry clothes to flat space.
+Clean the lint filter, start the dryer, and repeat step 2 for your other load.
+
+vote5
+Once all clothes have been washed and dried, move them to a flat space.
+When the dryer is done, bring clothes to wherever you store them
+After the dryer is complete, remove your clothes and fold them.
+Once the dryer is finished, take your clothes out, fold them, and repeat step 3 for your other load.
+
+vote6
+Put the folded clothes away. Do step 4 for your second load.
+Bring the folded clothes to where you store them.
+Repeat until all clothes are washed, dried, and folded.
+Once your other load has finished drying, take your clothes out, fold them, and clean the lint filter one final time.
+
+vote7
+Do step 5 for your second load.
+Once your second load has finished drying, take your clothes out, fold them, and put them away. Don't forget to clean the lint filter for the next person!
+Congrats! You finished!
+Once those clothes have been fully washed, dried, and folded all loads of clothes, you are finished
+
+
+
+tying shoe
+rate- 4 4 3 4
+solo
+	time- 5:24
+final
+place one strand in each hand
+cross strands so you have the opposite one in each hand
+take the strand from left and insert it underneath the part they crossed
+pull strand tight
+place finger on point where they crossed and with your right hand take strand from left and place around finger and insert into strand that was on the other
+pull tight
+
+group
+rate 3 5 3 2
+time-16:47
+
+final
+Look down at your shoes, determine if they have laces. If so, continue.
+Take the two laces in your hands, one on each side. Cross them.
+Put the right side under the bottom rung of the X made by the crossed laces.
+Tighten well and grab both laces.
+Make a loop around your finger with one shoelace and pull part of the shoelace through to make a loop. Pull tightly.
+Repeat step 5 with other free shoelace.
+Repeat steps 1-6 with the other shoe.
+vote1
+Look down at your shoes, determine if they have laces. If so, continue.
+Take both shoelaces and make a bight with each of them
+Put one shoelace into each hand.
+
+vote2
+Take one shoelace in each hand.
+Take the two laces in your hands, one on each side. Cross them.
+Loop the right part of the string around the left part twice.
+using the shoelaces make a loop with each
+
+vote3
+Take shoelace in left hand and loop under the cross.
+With your right hand, make a small loop with one string.
+put the lace in front through the loop made. Tighten.
+Put the right side under the bottom rung of the X made by the crossed laces
+
+vote4
+Tighten well and grab both laces.
+With one hand, make a small loop with one lace. Then wrap the other lace around the loop twice.
+Pull the two ends apart from each other, and make a small loop with the end in your left hand.
+Make a loop around your finger with a shoelace and pull the part of the shoelace through the loop. Pull tightly.
+
+vote5
+Make a loop with one lace, then wrap the other lace around the loop twice.
+Make a loop with the left string, and wrap the right string around it.
+Make a loop with each lace; do steps 2 and 3 with these loops and tighten.
+Make a loop around your finger with one shoelace and pull part of the shoelace through to make a loop. Pull tightly.
+
+vote6
+Knot is complete!
+Repeat step 5 with other free shoelace.
+Make sure no loop or end is too long or too short.
+Lastly, make a double knot with the loops you made in the previous step.
+
+vote7
+You are now finished.
+Knot is complete!
+Repeat steps 1-6 with the other shoe.
+do steps 3 and 4 with the 2 loops.
+
+
+
+pb&j
+solo
+rate- 4 3 5 4
+time- 1:20
+final
+get bread, pb, and jelly
+put pb on bread put jelly on other slice
+put two slices of bread together
+enjoy
+
+
+group
+rate 4 5 4 4
+time 4:22
+final
+Take out 2 pieces of bread, as well as the peanut butter and jelly jars from the fridge.
+Spread jelly on one slice and peanut butter on the other slice.
+put the slices together so that the peanut butter and jelly are between them
+
+vote1
+Find bread, peanut butter and jelly.
+You take out your peanut butter, jelly, and bread.
+Take out 2 pieces of bread, as well as the peanut butter and jelly jars from the fridge.
+Put spread peanut butter on a slice of bread with a knife
+
+vote2
+Spread the peanut butter and jelly on different slices of bread.
+spread peanut butter on a slice of bread with a knife
+Spread jelly on one slice and peanut butter on the other slice.
+Dip a knife into the peanut butter jar and spread it on one piece of bread so it completely covers one side.
+
+vote3
+put the slices together so that the peanut butter and jelly are between them
+Put the pieces of bread together and enjoy!
+Put the two slices together.
+Put the two pieces together. Now it's peanut butter jelly time.
+
+
+rice
+solo
+rate- 5 3 5 3 
+time- 1:12
+final
+get pan and fill with water
+put rice in water, heat water
+once boiling, lower head and cover for 40 minutes
+add oil, salt to taste
+
+
+group
+rate 3 4 4 5
+time 9:00
+final
+Get a pot and put water in it.
+Bring the water to a boil. Meanwile, measure the amount of rice you want to cook with a measuring cup.
+Pour the rice into the boiling water and set the timer appropriately.
+Once the timer beeps, make sure the rice is slightly puffy. If so, drain and serve. If not, wait a few more minutes.
+
+vote1
+You first measure the amount of rice to cook.
+Get a pot and put water in it.
+Get the raw rice out of the cabinet or bucket.
+Take out however much rice you want to cook
+
+vote2
+Put rice in and set the timer.
+Heat the water and put rice in it.
+Measure the amount of rice to cook.
+Bring the water to a boil. Meanwile, measure the amount of rice you want to cook with a measuring c
+
+vote3
+Pour the rice into the boiling water and set the timer appropriately.
+Put the rice and cover the pot for 30-40 minutes.
+Put the rice in the water and set a timer.
+Clean the rice before putting it into the pot.
+
+vote4
+Once rice is done, wait for it to cool and enjoy.
+Once time is up, fluff the rice with a fork. Serve hot.
+When done, drain the rice and let cool as needed
+Once the timer beeps, make sure the rice is slightly puffy. If so, drain and serve. If not, wait a few more minutes.
+
+
+***no filter***
+hash table
+solo
+rate- 4 3 5 5
+time-6:14
+final
+create an array with size = a prime number
+make a hash function that maps keys to buckets, such that ekys will be evenly distributed among the buckets
+using a hash function, write an insert method that first hashes a key to a buckey, then appends the key to the front of the separated chain linked list
+write the remove function that takes a key and searches the appropriate linked list to see if the key is contained in the linked list. If so, remove it
+compile and run your java file, check for errors
+
+
+group
+rate 4 5 4 5
+time 8:11
+final
+Create an array of linked lists, with the array size being a prime number.
+Write a hash function that maps keps to buckets, such that the keys will be evenly distributed among the buckets.
+Write an insert method that takes a key, computes a bucket for the key using the hash function, and appends the key to the beginning of the separately-chained linked list.
+Write a lookup method that takes a key, computes a bucket for the key using the hash function, and searches the appropriate linked list for the key.
+Write a remove method that takes a key, computes a bucket for the key using the hash function, and deletes the key (if it exists) from the appropriate linked list.
+wrap this code in a class, and test and debug as necessary
+
+vote1
+Open text editor of your choice.
+Create a class called hash.
+Create an array of linked lists, with the array size being a prime number.
+Create a class with an array member variable
+
+vote2
+Write a hash function that maps keps to buckets, such that the keys will be evenly distributed among the buckets.
+Create an appropriate hash function using that prime number.
+write a hash function
+Use the array size to generate a unique identifier for the hash.
+
+vote3
+WIth those buckets, determine what the unique hash will be from the function.
+Test with values and debug accordingly.
+Write an insert method that takes a key, computes a bucket for the key using the hash function, and appends the key to the beginning of the separately-chained linked list.
+write code to chain values in a linked list in the event of a hash collision
+
+vote4
+Write a lookup method that takes a key, computes a bucket for the key using the hash function, and searches the appropriate linked list for the key.
+write a method to delete an entry from the hash table
+Debug with keys.
+
+vote5
+Write a delete function. Debug.
+Test and debug accordingly.
+Write a remove method that takes a key, computes a bucket for the key using the hash function, and deletes the key (if it exists) from the appropriate linked list.
+
+vote6
+Compile and run your Java class using javac, checking for any errors.
+Complete.
+Test and debug accordingly.
+wrap this code in a class, and test and debug as necessary
+
