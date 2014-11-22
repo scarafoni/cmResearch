@@ -1,5 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Bernstein \bgroup \em et al.\egroup
+  }{2010}]{bernstein2010soylent}
+Michael~S Bernstein, Greg Little, Robert~C Miller, Bj{\"o}rn Hartmann, Mark~S
+  Ackerman, David~R Karger, David Crowell, and Katrina Panovich.
+\newblock Soylent: a word processor with a crowd inside.
+\newblock In {\em Proceedings of the 23nd annual ACM symposium on User
+  interface software and technology}, pages 313--322. ACM, 2010.
+
 \bibitem[\protect\citeauthoryear{Bigham \bgroup \em et al.\egroup
   }{2010}]{bigham2010vizwiz}
 Jeffrey~P Bigham, Chandrika Jayant, Hanjie Ji, Greg Little, Andrew Miller,
@@ -20,6 +28,12 @@ Daren~C Brabham.
 Jeff Howe.
 \newblock The rise of crowdsourcing.
 \newblock {\em Wired magazine}, 14(6):1--4, 2006.
+
+\bibitem[\protect\citeauthoryear{Kim}{2013}]{kim2013toolscape}
+Juho Kim.
+\newblock Toolscape: enhancing the learning experience of how-to videos.
+\newblock In {\em CHI'13 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 2707--2712. ACM, 2013.
 
 \bibitem[\protect\citeauthoryear{Kulkarni \bgroup \em et al.\egroup
   }{2012}]{kulkarni2012collaboratively}

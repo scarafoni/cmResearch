@@ -15,13 +15,28 @@ This was done to avoid problems with granularity and starvation that were proble
 CannedMentorship uses a very simple task generating algorithm, with no explicit task subdivision or branching.
 The system simply asks users to create steps in sequence, from beginning to end, in order.
 Each step is completed in order, with the latter steps coming directly after former steps chronologically.
+This avoids the issue of task subdivision. 
+Users do not have to deal with the complex uncertanties of task completion, and do not have to worry about planning the task.
+
+\subsection{Canned Mentorship Metaworkflow}
+Previously, three-stage find, fix, verify algorithms have been used successfully in crowd-sourcing \cite{kim2013toolscape,bernstein2010soylent}. Canned Mentorship builds off of this system. 
 
 \begin{figure}
 	\begin{center}
-	\includegraphics{}
+	\includegraphics{figures/cmWorkflow1.png}
+	\caption{The simplified version of the instruction step creation process.}
+	\label{fig:cmWorkflow1}
 	\end{center}
 \end{figure}
-The actual writing process follows a cycle, illustrated
+
+In order to create an instruction step, users follow a cyclical process.
+First, users suggest a step. 
+Second, they vote on the available propositions.
+Finally, they expand onto the next steo.
+ This process for adding a new rule is illustrated with figure \ref{fig:cmWorkflow1}. 
+Please note that this figure does not illustrate the overall workflow of the application, only the process for adding a new rule that users are involved in.
+
+The ``find'' stage is already decided by the system. The users simply have to
 
 \section{Implementation and Webapp details}
 Our project began by creating a small webapp which coordinated the instruction generating process.

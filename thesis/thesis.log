@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.10)  21 NOV 2014 14:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.10)  22 NOV 2014 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -343,15 +343,30 @@ Chapter 3.
 (./methodology.tex [6
 
 
-] <figures/cmInterface.png, id=42, 1606.0pt x 903.375pt>
+] <figures/cmWorkflow1.png, id=42, 614.295pt x 794.97pt>
+File: figures/cmWorkflow1.png Graphic file (type png)
+
+<use figures/cmWorkflow1.png>
+Package pdftex.def Info: figures/cmWorkflow1.png used on input line 32.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+Overfull \hbox (198.741pt too wide) in paragraph at lines 32--33
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 193.67307pt on input line 34.
+
+[7] [8 <./figures/cmWorkflow1.png>]
+<figures/cmInterface.png, id=49, 1606.0pt x 903.375pt>
 File: figures/cmInterface.png Graphic file (type png)
 
 <use figures/cmInterface.png>
-Package pdftex.def Info: figures/cmInterface.png used on input line 34.
+Package pdftex.def Info: figures/cmInterface.png used on input line 54.
 (pdftex.def)             Requested size: 199.46341pt x 112.19102pt.
-) [7 <./figures/cmInterface.png>]
+) [9 <./figures/cmInterface.png>]
 Chapter 4.
-(./results.tex) [8
+(./results.tex) [10
 
 
 ]
@@ -361,14 +376,14 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 2.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-[9
+[11
 
 
 ]
 
-LaTeX Warning: Reference `fig:3D_Print' on page 10 undefined on input line 15.
+LaTeX Warning: Reference `fig:3D_Print' on page 12 undefined on input line 15.
 
-[10] [11]) [12]
+[12] [13]) [14]
 Chapter 6.
 (./codesection.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -479,10 +494,10 @@ Overfull \hbox (36.43883pt too wide) in alignment at lines 45--45
  [] [] 
  []
 
-[13
+[15
 
 
-] [14]
+] [16]
 Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/m/n/10.95 determines
  []
@@ -607,23 +622,23 @@ Overfull \hbox (47.01242pt too wide) in alignment at lines 50--74
 Underfull \vbox (badness 10000) detected at line 74
  []
 
-[15] [16]) (./thesis.bbl [17])
+[17] [18]) (./thesis.bbl [19] [20
+
+
+])
 
 Package natbib Warning: There were undefined citations.
 
-[18
-
-
-] (./thesis.aux)
+[21] (./thesis.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4917 strings out of 493304
- 73065 string characters out of 6139870
- 163939 words of memory out of 5000000
- 8275 multiletter control sequences out of 15000+600000
+ 4928 strings out of 493304
+ 73347 string characters out of 6139870
+ 163999 words of memory out of 5000000
+ 8285 multiletter control sequences out of 15000+600000
  10180 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,9n,44p,816b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -638,10 +653,10 @@ nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (22 pages, 244658 bytes).
+Output written on thesis.pdf (25 pages, 272866 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

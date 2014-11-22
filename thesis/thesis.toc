@@ -6,11 +6,12 @@
 \contentsline {subsection}{\numberline {2.1.2}Effective Crowdsourcing}{5}
 \contentsline {chapter}{\numberline {3}Methodology}{6}
 \contentsline {section}{\numberline {3.1}Workflow}{6}
-\contentsline {subsection}{\numberline {3.1.1}Greedy Instruction Addition}{6}
+\contentsline {subsection}{\numberline {3.1.1}In-Order Instruction Addition}{7}
+\contentsline {subsection}{\numberline {3.1.2}Canned Mentorship Metaworkflow}{7}
 \contentsline {section}{\numberline {3.2}Implementation and Webapp details}{7}
-\contentsline {section}{\numberline {3.3}System Implementation}{7}
-\contentsline {subsection}{\numberline {3.3.1}The Webapp}{7}
-\contentsline {chapter}{\numberline {4}Results}{8}
-\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{9}
-\contentsline {chapter}{\numberline {6}Code Tables}{13}
-\contentsline {chapter}{Bibliography}{18}
+\contentsline {section}{\numberline {3.3}System Implementation}{9}
+\contentsline {subsection}{\numberline {3.3.1}The Webapp}{9}
+\contentsline {chapter}{\numberline {4}Results}{10}
+\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{11}
+\contentsline {chapter}{\numberline {6}Code Tables}{15}
+\contentsline {chapter}{Bibliography}{20}
