@@ -92,7 +92,65 @@ that thing phillip liked
 
 google apps
 
+\todo{finish this}
 
+\subsection{Algorithms Tested}
+Our study studied a total of fifteen distinct algorithms, including three clustering algorithms: agglomerative hierarchical clustering, DBSCAN, and affinity propagation.
+
+Hierarchical clustering was the primary clustering algorithm in question for this study, for the reasons outlined in section one.
+DBSCAN and affinity propagation were included.
+DBSCAN clusters based on density, and affinity propagation sends signals between potential clusters, adding points to clusters based on how well they represent different groups.
+ These two were chosen in part to give context for the performance of agglomerative clustering, but also to test their efficacy with the chosen feature selection and distance algorithms.
+
+For evaluation, it makes sense to recount that the filtered suggestions (the input minus the redundant ones) will ultimately be evaluated by humans. The metric for performance of the algorithms, therefore, should present the user with the original list of propositions, the filtered list, and then be asked to rate how well the filtered list represents the original on a varying scale (perhaps from 1 to 5, with five being ``perfectly'' and 1 being ``poorly'').
+
+\subsection{Algorithm Details}
+The given input to all the algorithms was a list of instructions, one came from each user in the participant.
+Each input was approximately one sentence long, and described a step in the performance of a task.
+Preprocessing involved converting all of the letters in the sentence into lower case, removing stopwords (such as ``a'' ``an'' and ``the'') and punctuation, and stemming every word (converting words to their base form, such as ``runs'' $\rightarrow$ ``run.''
+Once this preprocessing finished, the inputs were utilized by one of the respective algorithms.
+Although the next steps were ultimately dependent on which algorithm was used, the end result was a clustering of the sentences into groups based on similarity.
+
+One of the algorithms tested was the ``Bag of Words'' algorithm for feature selection.
+This was the simpleset algorithm tested, and used tdf-if extraction to create a feature matrix.
+Once this was done, the resulting matrix was input into one of the clustering algorithms, using standard Euclidean distance ($l_2$ norm) to calculate the distance (or similarity) between points.
+
+An N-grams/bag of words hybrid was also implemented, which took the existing bag of words feature matrix above, and also included the ngrams features of the sentences. 
+This had the additional benifit of preserving some of the sentence structure in the feature matrix.
+
+Several semantic distance algorithms were also used.
+The wordnet library has been used in the past to calculate semantic distance between terms of the same part of speech \cite{achananuparp2008evaluation, abdalgader2011short}. 
+We implemented the algorithm used by Achananupart et al. which calculated the similarity of each word with the most similar word in the opposing sentence. 
+This algorithm taskes advantage of word hierarchical taxonomy in wordnet. 
+Words in wordnet are related by hypernym/hyponym relationships. 
+This allows semantic distance to be calculated as a function of the distance of the most recent common ancestor between two words \cite{abdalgader2011short}.
+
+Similarly, MIT's Conceptnet program allows for much quicker semantic comparison. 
+Conceptnet utilizes a hypergraph which links terms in a language based on a wide array of characteristics.
+In this program, the similarity between two words can be computed as a function of the graph difference between the two input terms.
+When testing these two methods, a feature matrix was not utilized.
+Instead, a distance matrix of distances between sentences was constructed using the above heuristics, and this was linked with the relevant clustering algorithm.
+
+I also developed a novel algorithm for this task. This algorithm, which was inspired by Achananuparp et al's findings that combinatory sentence similarity methods are  more accurate, begins by converting the input sentences into a bag of words/ngrams feature matrix.
+Once this is done, the matrix is converted into a distance matrix, created by taking the average of the standard euclidean distance between feature vectors and the semantic distance calculated through wordnet.
+This result is then linked with the relevant clustering algorithm.
+
+\begin{figure}
+	\begin{center}
+	\includegraphics[width=0.75\textwidth]{figures/sorter.png}
+	\caption{Data was gathered from the webapp.}
+	\label{fig:sorter}
+	\end{center}
+\end{figure}
+
+Each of the previously mentioned feature-extraction/distance metric formulae were tried with each of the three clustering algorithms, resulting in fifteen distince algorithms. 
+This clustered the sentences into distinct groups.
+For each group, all but the longest sentence were removed.
+This was because this tecnique was shown to be effective in previous studies \cite{toolscape}, and because when two sentences were grouped together, the shorter sentence tended to contain less information and precision while still trying to express the same thought. !!this sounds wonky!!
+
+The new sentences were then collected and evaluated by participants, randomly sampled from the University of Rochester's student population. 
+These students were given the algorithms' results, and told to rate how well they removed redundant thoughts on a scale from one to five (with one being the lowest and five being the best).
+The entire process can be seen in \ref{fig:sorter}.
 
 %webapp description
 %theory
@@ -106,12 +164,3 @@ google apps
 	%reasons for choosing
 %flow
 %
-\begin{comment}
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.48\textwidth]{figures/rejection_sampling_placement.png}
-	\caption{Rejection sampling was also considered as a placement mechanism.}
-	\label{fig:rejection_sampling_placement}
-	\end{center}
-\end{figure}
-\end{comment}

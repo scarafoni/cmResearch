@@ -1,5 +1,20 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Abdalgader and
+  Skabar}{2011}]{abdalgader2011short}
+Khaled Abdalgader and Andrew Skabar.
+\newblock Short-text similarity measurement using word sense disambiguation and
+  synonym expansion.
+\newblock In {\em AI 2010: Advances in Artificial Intelligence}, pages
+  435--444. Springer, 2011.
+
+\bibitem[\protect\citeauthoryear{Achananuparp \bgroup \em et al.\egroup
+  }{2008}]{achananuparp2008evaluation}
+Palakorn Achananuparp, Xiaohua Hu, and Xiajiong Shen.
+\newblock The evaluation of sentence similarity measures.
+\newblock In {\em Data Warehousing and Knowledge Discovery}, pages 305--316.
+  Springer, 2008.
+
 \bibitem[\protect\citeauthoryear{Bernstein \bgroup \em et al.\egroup
   }{2010}]{bernstein2010soylent}
 Michael~S Bernstein, Greg Little, Robert~C Miller, Bj{\"o}rn Hartmann, Mark~S
@@ -23,6 +38,15 @@ Daren~C Brabham.
   cases.
 \newblock {\em Convergence: the international journal of research into new
   media technologies}, 14(1):75--90, 2008.
+
+\bibitem[\protect\citeauthoryear{Cimiano \bgroup \em et al.\egroup
+  }{2004}]{cimiano2004comparing}
+Philipp Cimiano, Andreas Hotho, and Steffen Staab.
+\newblock Comparing conceptual, divise and agglomerative clustering for
+  learning taxonomies from text.
+\newblock In {\em Proceedings of the 16th Eureopean Conference on Artificial
+  Intelligence, ECAI'2004, including Prestigious Applicants of Intelligent
+  Systems, PAIS 2004}, 2004.
 
 \bibitem[\protect\citeauthoryear{Howe}{2006}]{howe2006rise}
 Jeff Howe.
@@ -56,5 +80,19 @@ Walter~S Lasecki, Rachel Wesley, Jeffrey Nichols, Anand Kulkarni, James~F
 \newblock Chorus: a crowd-powered conversational assistant.
 \newblock In {\em Proceedings of the 26th annual ACM symposium on User
   interface software and technology}, pages 151--162. ACM, 2013.
+
+\bibitem[\protect\citeauthoryear{Naim \bgroup \em et al.\egroup
+  }{2013}]{naim2013text}
+Iftekhar Naim, Daniel Gildea, Walter~S Lasecki, and Jeffrey~P Bigham.
+\newblock Text alignment for real-time crowd captioning.
+\newblock In {\em HLT-NAACL}, pages 201--210, 2013.
+
+\bibitem[\protect\citeauthoryear{Pedro and
+  Hruschka~Jr}{2012}]{ml-sup-from-crowds}
+Saulo~DS Pedro and Estevam~R Hruschka~Jr.
+\newblock Collective intelligence as a source for machine learning
+  self-supervision.
+\newblock In {\em Proceedings of the 4th International Workshop on Web
+  Intelligence \& Communities}, page~5. ACM, 2012.
 
 \end{thebibliography}

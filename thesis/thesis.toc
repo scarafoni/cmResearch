@@ -1,17 +1,23 @@
 \contentsline {chapter}{Abstract}{ii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Background}{4}
-\contentsline {section}{\numberline {2.1}Crowdsourcing}{4}
-\contentsline {subsection}{\numberline {2.1.1}Current Scope and Usage of Crowdsourcing}{4}
-\contentsline {subsection}{\numberline {2.1.2}Effective Crowdsourcing}{5}
-\contentsline {chapter}{\numberline {3}Methodology}{6}
-\contentsline {section}{\numberline {3.1}Workflow}{6}
-\contentsline {subsection}{\numberline {3.1.1}Instruction Generation}{7}
-\contentsline {subsection}{\numberline {3.1.2}Additional user control}{9}
-\contentsline {section}{\numberline {3.2}Implementation and Webapp details}{9}
-\contentsline {section}{\numberline {3.3}System Implementation}{9}
-\contentsline {subsection}{\numberline {3.3.1}The Webapp}{9}
-\contentsline {chapter}{\numberline {4}Results}{11}
-\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{12}
-\contentsline {chapter}{\numberline {6}Code Tables}{16}
+\contentsline {chapter}{\numberline {2}Background}{5}
+\contentsline {section}{\numberline {2.1}Crowdsourcing}{5}
+\contentsline {subsection}{\numberline {2.1.1}Current Scope and Usage of Crowdsourcing}{5}
+\contentsline {subsection}{\numberline {2.1.2}Hierarchical Classification in Natural Language Processing}{6}
+\contentsline {subsection}{\numberline {2.1.3}Similarity of Short Strings}{6}
+\contentsline {subsection}{\numberline {2.1.4}Clustering and Crowdsourcing}{7}
+\contentsline {section}{\numberline {2.2}Methodology and Algorithms}{8}
+\contentsline {chapter}{\numberline {3}Methodology}{9}
+\contentsline {section}{\numberline {3.1}Workflow}{9}
+\contentsline {subsection}{\numberline {3.1.1}Instruction Generation}{10}
+\contentsline {subsection}{\numberline {3.1.2}Additional user control}{12}
+\contentsline {section}{\numberline {3.2}Implementation and Webapp details}{12}
+\contentsline {section}{\numberline {3.3}System Implementation}{12}
+\contentsline {subsection}{\numberline {3.3.1}The Webapp}{12}
+\contentsline {subsection}{\numberline {3.3.2}Algorithms Tested}{13}
+\contentsline {subsection}{\numberline {3.3.3}Algorithm Details}{14}
+\contentsline {chapter}{\numberline {4}Results}{17}
+\contentsline {subsection}{\numberline {4.0.4}Removal Efficacy}{17}
+\contentsline {subsection}{\numberline {4.0.5}Runtime analysis}{18}
+\contentsline {chapter}{\numberline {5}Conclusion and Discussion}{20}
 \contentsline {chapter}{Bibliography}{21}

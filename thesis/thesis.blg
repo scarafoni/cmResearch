@@ -1,49 +1,6 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: thesis.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
 The style file: named.bst
 Database file #1: refs.bib
 Warning--I didn't find a database entry for "howie2006rise"
 Warning--I didn't find a database entry for ""
-You've used 8 entries,
-            2439 wiz_defined-function locations,
-            601 strings with 6205 characters,
-and the built_in function-call counts, 4462 in all, are:
-= -- 478
-> -- 186
-< -- 6
-+ -- 67
-- -- 66
-* -- 336
-:= -- 669
-add.period$ -- 30
-call.type$ -- 8
-change.case$ -- 64
-chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 189
-empty$ -- 325
-format.name$ -- 75
-if$ -- 976
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 8
-newline$ -- 43
-num.names$ -- 24
-pop$ -- 70
-preamble$ -- 1
-purify$ -- 72
-quote$ -- 0
-skip$ -- 161
-stack$ -- 0
-substring$ -- 281
-swap$ -- 79
-text.length$ -- 6
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 64
-warning$ -- 0
-while$ -- 38
-width$ -- 11
-write$ -- 112
 (There were 2 warnings)

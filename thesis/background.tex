@@ -25,7 +25,45 @@ Crowdsourcing is also often used for tasks which are prohibitively difficult or 
 For example, the stock photo website iStockphoto collects images uploaded by users, and pays them a small compensation for their effort. 
 This website is able to lease the rights to these images for \$1, which undercuts professional photographers' prices by over $90\%$, Crowd labor also extends to a number of other fields, including industrial research \cite{howe2006rise}.
 
-\subsection{Effective Crowdsourcing}
+\subsection{Hierarchical Classification in Natural Language Processing}
+The idea of using Hierarchical clustering in order to separate sentences has been mentioned in the literature previously. 
+Skabar et al. illustrates recent successes in using this method of unsupervised learning to classify text. !!moar here!!
+
+Cimiano et al. worked with classifying terms into hierarchies using various clustering methods.
+They were able to conclude that despite variance in classification efficacy between humans and machines, hierarchical clustering was found to perform as well as human users.
+In fact, they noted that a large portion of the difference in efficacy was a result of the algorithm chosen for classification.
+Further, the study shows that hierarchical agglomerative clustering was one of the top performing algorithms, and one of the more efficient (their algorithm operated in $O(n^2)$ time.
+This study, however, only compared words, not complete sentences. \cite{cimiano2004comparing}.
+
+\subsection{Similarity of Short Strings}
+There are a number of algorithms for comparing similarity between sentences.
+A survery by Achananuparp et al. studied a wide variety of techniquest. In particular, the study compared the efficacy of lexical metrics, which measured the syntactic and word content similarity of sentences, and linguistic metrics, which compares semantics similarities between two sentences \cite{achananuparp2008evaluation}.
+
+Their method for semantic difference utilized wordnet, and relied on calculating the distance to the most recent common ancestor in between two words' term hierarchies \cite{achananuparp2008evaluation, abdalgader2011short}.
+In this study, the most effective methods utilized a diverse combination of both lexical and linguistic methods for comparing sentences \cite{achananuparp2008evaluation}. !!embellsih this more if we can!!
+
+\subsection{Clustering and Crowdsourcing}
+Though there are many tasks which have required filtering of small crowd input to solve tasks and answer questions, there has not been widespread use of clustering in projects that attempt to answer user questions or create and modify instructions.
+The Toolscape project, for example, read in user input to annotate how-to videos.
+Clustering algorithms were used in simple situations: for example, to cluster time selections on the video in question.
+
+When comparing string annotation inputs from the users, however, as simple string comparison method was implemented \cite{kim2013toolscape}. 
+
+The Chorus Project, which allowed the crowd to answer questions from the user, used no back-end AI at all, and simply had users vote on the best solution.
+Though the end product had a high answer accuracy rating, the latency of responses was on the order of minutes in most cases.
+This system also had a complex, hierarchical incentive system and a specialized interface to keep users engaged, and their answers accurate \cite{lasecki2013chorus}.
+The usage of machine learning tecniques in the backend was not explored, and remains a field of investigation open to future study.
+
+Scribe built on this, and used statistical natural language processing in order to merge text input from crowds. 
+This project, which was designed to allow real-time captioning of crowd input on audio, is able to merge sentence input using a backend AI agent which utilizes the multiple sequence alignment algorithm to build a substitution matrix to identify potential typos in typing.
+As text is entered by the users, the algorithm creates a graph which traverses the text tokens between concurrent input strings to form the best reconstruction of the sentence. 
+This study isunique in that it utilizes an AI backend to supplement a crowdsourcing systems \cite{naim2013text}.
+
+More prolific than AI backed crowdsourcing, however, is crowd-supplemented AI. Crowds have been shown to be a valuable asset for labeling data for machine learning, a task which is difficult to automate\cite{ml-sup-from-crowds}. !!put more stuff here!!
+
+\section{Methodology and Algorithms}
+This project used data gathered from a crowdsourced workflow generatign project, \emph{Canned Mentorship}. 
+This data was run through a number of clustering algorithms, and the results were evaluated by human users.
 
 
 

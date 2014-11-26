@@ -1,17 +1,24 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.11.10)  22 NOV 2014 22:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.3)  26 NOV 2014 16:32
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **thesis.tex
-(./thesis.tex
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\thesis.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/leqno.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\leqno.clo"
 File: leqno.clo 1998/08/17 v1.1c Standard LaTeX option (left equation numbers)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -26,32 +33,33 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./urcsbiblio.sty
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+)
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\urcsbiblio.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count88
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
@@ -66,42 +74,44 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
-) (./urcsthesis.sty
+)
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\urcsthesis.sty
 Document Style `urcsthesis' <15 December 2010> (modified).
-(./urcsmargin.sty)
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\urcsmargin.sty)
 \chaptitlewidth=\skip45
 \chapnowidth=\skip46
- (./urcsmacros.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\urcsmacros.tex))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks14
 \verbatim@line=\toks15
 \verbatim@in@stream=\read1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 )
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen105
 \WF@size=\dimen106
 \c@WF@wrappedlines=\count90
@@ -109,10 +119,10 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \WF@everypar=\toks17
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen107
@@ -126,12 +136,12 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \c@ContinuedFloat=\count91
 Package caption Info: wrapfig package is loaded.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 \c@subfigure=\count92
 \c@subtable=\count93
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip47
 \LTright=\skip48
@@ -149,10 +159,10 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count98
 \LT@p@ftn=\toks18
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tabu\tabu.sty"
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen115
 \extrarowheight=\dimen116
@@ -160,7 +170,7 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip51
 \backup@length=\skip52
 )
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box31
 \sift@deathcycles=\count99
@@ -190,22 +200,21 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box35
 \tabu@cellskip=\skip53
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen128
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip54
 \enit@outerparindent=\dimen129
 \enit@toks=\toks22
 \enit@inbox=\box36
 \enitdp@description=\count106
-) (./thesis.aux)
-\openout1 = `thesis.aux'.
-
+)
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\thesis.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
@@ -219,7 +228,7 @@ LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
 \scratchdimen=\dimen130
@@ -232,64 +241,17 @@ LaTeX Font Info:    ... okay on input line 40.
 \MPnumerator=\count111
 \makeMPintoPDFobject=\count112
 \everyMPtoPDFconversion=\toks24
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -299,7 +261,8 @@ Missing character: There is no ù in font cmr10!
  [2
 
 
-] (./thesis.toc
+]
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\thesis.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -308,42 +271,44 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 4.
 )
 \tf@toc=\write3
-\openout3 = `thesis.toc'.
-
  [3
 
 
-] [4]
+]
+[4]
 Chapter 1.
-(./introduction.tex
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\introduction.tex
 
 Package natbib Warning: Citation `howie2006rise' on page 1 undefined on input l
 ine 2.
 
 
-Package natbib Warning: Citation `' on page 1 undefined on input line 22.
+Package natbib Warning: Citation `' on page 1 undefined on input line 21.
 
 [1
 
 
 ] [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
-) [3]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+ [3])
+[4]
 Chapter 2.
-(./background.tex [4
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\background.tex
+[5
 
 
-]) [5]
+] [6] [7]) [8]
 Chapter 3.
-(./methodology.tex [6
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\methodology.tex
+[9
 
 
-] <figures/cmWorkflow1.png, id=42, 614.295pt x 794.97pt>
+] <figures/cmWorkflow1.png, id=53, 614.295pt x 794.97pt>
 File: figures/cmWorkflow1.png Graphic file (type png)
 
 <use figures/cmWorkflow1.png>
@@ -357,8 +322,8 @@ Overfull \hbox (198.741pt too wide) in paragraph at lines 25--26
 
 LaTeX Warning: Float too large for page by 217.27306pt on input line 29.
 
-[7] [8 <./figures/cmWorkflow1.png>]
-<figures/cmInterface.png, id=49, 1606.0pt x 903.375pt>
+[10] [11 <C:/Users/DanScarafoni/Documents/GitHub/cmResearch/thesis/figures/cmWo
+rkflow1.png>] <figures/cmInterface.png, id=60, 1606.0pt x 903.375pt>
 File: figures/cmInterface.png Graphic file (type png)
 
 <use figures/cmInterface.png>
@@ -368,299 +333,77 @@ Package pdftex.def Info: figures/cmInterface.png used on input line 79.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9]) [10 <./figures/cmInterface.png>]
+[12] [13 <C:/Users/DanScarafoni/Documents/GitHub/cmResearch/thesis/figures/cmIn
+terface.png>] [14] <figures/sorter.png, id=72, 730.98094pt x 164.86594pt>
+File: figures/sorter.png Graphic file (type png)
+
+<use figures/sorter.png>
+Package pdftex.def Info: figures/sorter.png used on input line 140.
+(pdftex.def)             Requested size: 311.66437pt x 70.29224pt.
+
+
+Package natbib Warning: Citation `toolscape' on page 15 undefined on input line
+ 149.
+
+[15 <C:/Users/DanScarafoni/Documents/GitHub/cmResearch/thesis/figures/sorter.pn
+g>]) [16]
 Chapter 4.
-(./results.tex) [11
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\results.tex
+<figures/ratechart.png, id=80, 470.50781pt x 277.78781pt>
+File: figures/ratechart.png Graphic file (type png)
+
+<use figures/ratechart.png>
+Package pdftex.def Info: figures/ratechart.png used on input line 9.
+(pdftex.def)             Requested size: 311.66437pt x 184.00598pt.
+
+<figures/rtchart.png, id=81, 464.4853pt x 277.78781pt>
+File: figures/rtchart.png Graphic file (type png)
+
+<use figures/rtchart.png>
+Package pdftex.def Info: figures/rtchart.png used on input line 28.
+(pdftex.def)             Requested size: 311.66437pt x 186.3966pt.
+ [17
 
 
-]
+] [18 <C:/Users/DanScarafoni/Documents/GitHub/cmResearch/thesis/figures/ratecha
+rt.png>]) [19 <C:/Users/DanScarafoni/Documents/GitHub/cmResearch/thesis/figures
+/rtchart.png>]
 Chapter 5.
-(./conclusion.tex
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 2.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-[12
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\conclusion.tex)
+(C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\thesis.bbl [20
 
 
 ]
-
-LaTeX Warning: Reference `fig:3D_Print' on page 13 undefined on input line 15.
-
-[13] [14]) [15]
-Chapter 6.
-(./codesection.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[]|\OT1/pcr/m/n/10.95 cast[]thru(Object
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-\OT1/pcr/m/n/10.95 start[]obj,Vector
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-[]|\OT1/pcr/m/n/10.95 nudge(Object a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-[]|\OT1/pcr/m/n/10.95 rayCast(Object a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[]|\OT1/pcr/m/n/10.95 alignMeasure(a, b,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\OT1/pcr/m/n/10.95 top=float(inf),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\OT1/pcr/m/n/10.95 right=float(inf),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-\OT1/pcr/m/n/10.95 bottom=float(-inf),
- []
-
-
-Underfull \hbox (badness 1715) in paragraph at lines 16--16
-[]|\OT1/cmr/m/n/10.95 Creates a rect-an-gu-lar prism mesh on top of b that
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\OT1/pcr/m/n/10.95 highest(Object obj,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|\OT1/pcr/m/n/10.95 lowestPt(Object
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-[]|\OT1/pcr/m/n/10.95 getDiff(Object m,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
-[]|\OT1/pcr/m/n/10.95 closest[]points(Scene
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--26
-\OT1/pcr/m/n/10.95 scene, Object a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
-[]|\OT1/pcr/m/n/10.95 distance(Vector a,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]|\OT1/pcr/m/n/10.95 glob2Loc(Vector pt,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]|\OT1/pcr/m/n/10.95 locs2Glob(Vector[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\OT1/pcr/m/n/10.95 loc2Glob(Vecotr pts,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\OT1/pcr/m/n/10.95 aInBSpace(Vector pt,
- []
-
-
-Overfull \hbox (36.43883pt too wide) in alignment at lines 2--45
- [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 45
- []
-
-
-Overfull \hbox (36.43883pt too wide) in alignment at lines 45--45
- [] [] 
- []
-
-[16
-
-
-] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 1997) in paragraph at lines 56--56
-\OT1/cmr/m/n/10.95 whether A is
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 59--59
-[]|\OT1/cmr/m/n/10.95 determines to
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 59--59
-\OT1/cmr/m/n/10.95 is un-der-neath
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--62
-\OT1/cmr/m/n/10.95 whether A
- []
-
-
-Underfull \hbox (badness 5533) in paragraph at lines 62--62
-\OT1/cmr/m/n/10.95 is in-side B's
- []
-
-
-Underfull \hbox (badness 3930) in paragraph at lines 62--62
-[]|\OT1/cmr/m/n/10.95 draws a tem-po-rary ob-ject
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 64--64
-\OT1/cmr/m/n/10.95 the ex-tent to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-\OT1/cmr/m/n/10.95 which A is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 66--66
-\OT1/cmr/m/n/10.95 the ex-tent to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
-\OT1/cmr/m/n/10.95 which A is
- []
-
-
-Overfull \hbox (13.19162pt too wide) in paragraph at lines 68--68
-[]|\OT1/pcr/m/n/10.95 isTouching(A,B)| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 68--68
-\OT1/cmr/m/n/10.95 the ex-tent to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\OT1/cmr/m/n/10.95 which A is
- []
-
-
-Underfull \hbox (badness 1418) in paragraph at lines 68--68
-\OT1/cmr/m/n/10.95 and re-quires ob-jects to be
- []
-
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
-[]|\OT1/cmr/m/n/10.95 determines
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 70--71
-\OT1/cmr/m/n/10.95 ject on A). Ray cast-ing is
- []
-
-
-Underfull \hbox (badness 3108) in paragraph at lines 71--71
-\OT1/cmr/m/n/10.95 sur-round-ing the fo-cal
- []
-
-
-Overfull \hbox (47.01242pt too wide) in alignment at lines 50--74
- [] [] [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 74
- []
-
-[18] [19]) (./thesis.bbl [20] [21
+[21
 
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[22] (./thesis.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[22] (C:\Users\DanScarafoni\Documents\GitHub\cmResearch\thesis\thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 4929 strings out of 493304
- 73364 string characters out of 6139870
- 165010 words of memory out of 5000000
- 8286 multiletter control sequences out of 15000+600000
- 10180 words of font info for 36 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 38i,9n,44p,816b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb>
-Output written on thesis.pdf (26 pages, 274576 bytes).
+ 4563 strings out of 493921
+ 68903 string characters out of 3144856
+ 135865 words of memory out of 3000000
+ 7792 multiletter control sequences out of 15000+200000
+ 9150 words of font info for 32 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,7n,38p,817b,322s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on thesis.pdf (26 pages, 358426 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 133 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
