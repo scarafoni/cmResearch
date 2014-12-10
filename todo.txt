@@ -1,4 +1,2 @@
-run more no filter tests
-run some with filter
-total: 4 each
+reprint the surveys and get info on them
 
