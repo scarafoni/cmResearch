@@ -44,4 +44,9 @@ open peanut butter jar
 with utensil, spread peanut butter on bread, and enjoy!
 
 time- 7:20
-rating- 5 4 3 5
+rating- 5 4 3 5 4
+*philip also voted for bad ones*
+
+troll test p value- > 0.25
+not significant
+mann-whitney test
