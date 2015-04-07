@@ -17,8 +17,11 @@ matrix(c(5, 5, 5, 2, 5, 4, 4, 4, 1, 1, 3, 4, 0, 5, 5,
          2, 2, 2, 5, 2, 1, 1, 1, 3, 3, 2, 2, 3, 2, 2,
          3, 3, 3, 3, 1, 1, 1, 1, 1, 1, 5, 5, 1, 4, 3,
          4, 1, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3,
-         2, 2, 2, 3, 2, 3, 3, 3, 2, 1, 2, 3, 1, 2, 2,),
-    nrow = 1,9,
+         2, 2, 2, 3, 2, 3, 3, 3, 2, 1, 2, 3, 1, 2, 2),
+    nrow = 19,
     byrow = TRUE,
-    dimnames = list(1, : 1,9,
+    dimnames = list(1 : 19, 
+                    c("Hac-bow", "Hac-bow-ngram", "Hac-ks", "Hac-wn", "Hack-cn", "Dbscan-bow", "dbscan-bow-ngram", "dbscan-ks", "dbscan-wn", "dbscan-cn", "ap-bow", "ap-bow-ngram", "ap-ks", "ap-wn", "ap-cn")))
+
+friedman.test(ratings)
         
